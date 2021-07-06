@@ -1,0 +1,64 @@
+body {
+  font-family: "Rubik", sans-serif;
+  margin: 0px;
+}
+
+.highlight {
+  color: rgb(45, 45, 224);
+}
+
+h1 {
+  font-size: 300%;
+}
+
+section {
+  display: flex;
+  padding: 50px;
+}
+
+section .mid-banner {
+  margin: 0px;
+}
+
+.half-width p {
+  margin-bottom: 30px;
+}
+
+.link-btn {
+  text-decoration: none;
+  background-image: linear-gradient(navy, rgb(85, 85, 235));
+  border-radius: 15px;
+  padding: 10px 20px;
+  font-weight: 700;
+  color: white;
+}
+
+.half-width {
+  width: 50%;
+  padding-left: 2%;
+}
+
+.half-width img {
+  height: 500px;
+  width: 550px;
+}
+
+.mid-banner {
+  background-image: url(images/FrameTop.jpg);
+  background-repeat: no-repeat;
+  background-size: 1350px;
+  height: 400px;
+}
+
+.mid-image img {
+  margin-left: 100px;
+  width: 300px;
+  height: 450px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 40px;
+}
