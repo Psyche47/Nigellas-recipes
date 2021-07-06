@@ -62,3 +62,26 @@ footer {
   text-align: center;
   padding: 40px;
 }
+
+.recepies {
+  text-align: center;
+  margin-left: 100px;
+  margin-bottom: 0px;
+}
+
+section .thrity-width {
+  width: 33%;
+}
+
+section .menu-items {
+  margin-left: 10%;
+  margin-right: 5%;
+  padding: 20px;
+  box-shadow: 10px 10px 20px grey;
+  border-radius: 30px;
+}
+
+section .menu-items img {
+  width: 320px;
+  height: 350px;
+}
