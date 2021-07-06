@@ -85,3 +85,22 @@ section .menu-items img {
   width: 320px;
   height: 350px;
 }
+
+section .social {
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 5%;
+  padding: 20px;
+  box-shadow: 10px 10px 20px grey;
+  border-radius: 30px;
+}
+
+section .social img {
+  width: 180px;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+section .contact {
+  margin-left: 100px;
+}
